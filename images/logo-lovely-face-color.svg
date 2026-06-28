@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" role="img" aria-label="lovely face dental clinic">
+  <defs>
+    <linearGradient id="blue" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#8fc6f4"/>
+      <stop offset="1" stop-color="#4b93cf"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8f7bd"/>
+      <stop offset="1" stop-color="#9fdf60"/>
+    </linearGradient>
+    <linearGradient id="yellow" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff2a6"/>
+      <stop offset="1" stop-color="#ffc928"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#29d09a"/>
+      <stop offset="1" stop-color="#16a778"/>
+    </linearGradient>
+    <linearGradient id="pale" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#edf7d3"/>
+      <stop offset="1" stop-color="#b7dfd5"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(260 78)" opacity=".96">
+    <path d="M0-58C25-35 27-6 0 17C-27-6-25-35 0-58Z" fill="url(#green)"/>
+    <path d="M60-44C64-10 41 9 5 7C8-27 26-45 60-44Z" fill="url(#yellow)"/>
+    <path d="M78 10C55 36 22 36 3 7C35-10 57-9 78 10Z" fill="#ffd32e"/>
+    <path d="M41 70C8 64-6 38 5 7C35 18 48 38 41 70Z" fill="#9ec9ee"/>
+    <path d="M0 86C-25 65-28 34 0 7C27 34 25 65 0 86Z" fill="#1598da"/>
+    <path d="M-41 70C-48 38-35 18-5 7C6 38-8 64-41 70Z" fill="#cfe7df"/>
+    <path d="M-78 10C-57-9-35-10-3 7C-22 36-55 36-78 10Z" fill="url(#teal)"/>
+    <path d="M-60-44C-26-45-8-27-5 7C-41 9-64-10-60-44Z" fill="url(#pale)"/>
+  </g>
+  <text x="260" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" fill="#79c8f2" letter-spacing="-2">lovely face</text>
+  <text x="260" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#79c8f2" letter-spacing="3">DENTAL CLINIC</text>
+</svg>
